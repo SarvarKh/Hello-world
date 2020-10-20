@@ -19,7 +19,7 @@ Authors
     Twitter: @sarvarKhalimov
     LinkedIn: https://www.linkedin.com/in/sarvar-khalimov-208797143/
 
-👤 Author2
+👤 Angel L
 
     GitHub: @githubAngel
     Twitter: @Angel
